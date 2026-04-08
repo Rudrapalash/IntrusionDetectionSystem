@@ -1,0 +1,6 @@
+streamlit
+pandas
+tqdm
+scikit-learn
+joblib
+scapy
